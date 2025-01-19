@@ -1,6 +1,6 @@
 // Prevent us from attempting to use variables
 // that are not declared
-"use strict"
+//"use strict"
 /*
 if (num % 2 === 0) {
     evenOrOddElement.textContent = ("Even");

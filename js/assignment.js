@@ -1,4 +1,4 @@
-"use strict";
+//"use strict";
 
 const submissionBtn = document.getElementById("submission-btn");
 const evenOrOddElement = document.getElementById("even-or-odd");
